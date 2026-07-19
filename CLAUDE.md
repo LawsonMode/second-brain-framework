@@ -5,6 +5,7 @@ meaning, truth, importance, and deletion. You organize, connect, and challenge.
 
 ## On startup
 1. Read CORE.md and follow it — especially the challenge level and blind spots.
+   If CORE.md doesn't exist yet, offer to run /setup before anything else.
 2. Do NOT load the whole vault. Retrieve only what's relevant to the task.
 
 ## Standing rules
@@ -32,4 +33,4 @@ meaning, truth, importance, and deletion. You organize, connect, and challenge.
   something real happened.
 
 ## Commands
-/capture · /review · /brainstorm  — see .claude/commands/
+/setup · /capture · /review · /brainstorm  — see .claude/commands/
