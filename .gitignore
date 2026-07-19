@@ -1,4 +1,3 @@
-# Obsidian per-machine state (churns constantly; not worth versioning)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.DS_Store
+.obsidian/workspace*
 .trash/
