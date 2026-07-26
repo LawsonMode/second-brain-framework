@@ -1,3 +1,7 @@
 .DS_Store
 .obsidian/workspace*
 .trash/
+
+# --- Archive folders: build artifacts & stale snapshots, never commit ---
+**/archive/
+**/-- archive/
